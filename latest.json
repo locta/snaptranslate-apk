@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "appName": "一拍译",
+  "applicationId": "com.locta.snaptranslate",
+  "versionName": "1.0.0",
+  "versionCode": 1000001,
+  "tag": "v1.0.0",
+  "fileName": "SnapTranslate-v1.0.0.apk",
+  "publishedAt": "2026-10-04T17:40:31+00:00",
+  "sha256": "95e3e05dbf7158be25a65575951629e9d124209055ad0064b0b069834e13d00b",
+  "sizeBytes": 107987101,
+  "signingCertificateSha256": "ed7123ad8a2b2141c11984112371d15be69a326147cba0b0cf2dad957b5ecfd8",
+  "downloadUrl": "https://github.com/locta/snaptranslate-apk/releases/download/v1.0.0/SnapTranslate-v1.0.0.apk",
+  "releaseUrl": "https://github.com/locta/snaptranslate-apk/releases/tag/v1.0.0"
+}
